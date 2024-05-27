@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_list_o_cards",
+  "info": {
+    "displayName": "OCard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ListOCard": {
+      "type": "component",
+      "repeatable": true,
+      "component": "card.card"
+    }
+  }
+}

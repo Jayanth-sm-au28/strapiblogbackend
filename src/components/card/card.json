@@ -1,0 +1,42 @@
+{
+  "collectionName": "components_card_cards",
+  "info": {
+    "displayName": "Card"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "CardleftHeader": {
+      "type": "string"
+    },
+    "leftHeaderDescription": {
+      "type": "text"
+    },
+    "divider": {
+      "type": "boolean"
+    },
+    "leftDescripition": {
+      "type": "text"
+    },
+    "rightHeaderDescripition": {
+      "type": "text"
+    },
+    "rightFooterHeader": {
+      "type": "string"
+    },
+    "rightFooterDescripition": {
+      "type": "text"
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonLink": {
+      "type": "string"
+    },
+    "ButtonIcon": {
+      "type": "string"
+    }
+  }
+}
