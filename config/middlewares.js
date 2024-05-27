@@ -15,6 +15,13 @@ module.exports = [
       },
     },
   },
+  {
+    name: 'strapi::cors',
+    config: {
+      enabled: true,
+      origin: ['https://next-blog-phi-lime.vercel.app/'], 
+    },
+  },
   'strapi::cors',
   'strapi::poweredBy',
   'strapi::query',
